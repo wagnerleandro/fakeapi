@@ -1,9 +1,9 @@
 {
-  "token": [
+  "token": 
     {
       "tokenAcesso": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c",
       "expiracao": 15917436,
       "dtHrGeracaoToken": "2022-01-01T01:01:01.001Z-03:00"
     }
-  ]
+  
 }
